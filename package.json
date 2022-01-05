@@ -1,4 +1,23 @@
 {
+  "name": "moserteamprofilegenchallenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmoser5/moserteamprofilegenchallenge"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "es6",
+    "html",
+    "generator",
+    "inquirer"
+  ],
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.0",
     "jest": "^27.4.6"
