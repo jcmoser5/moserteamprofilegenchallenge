@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+
 function writeFile(pageHTML) {
   return new Promise((resolve, reject) => {
     fs.writeFile('./dist/index.html', pageHTML, err => {

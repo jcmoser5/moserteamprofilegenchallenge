@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 
+
 function promptManager() {
   let teamData = {
     manager: {},
